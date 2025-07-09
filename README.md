@@ -14,21 +14,20 @@ I love creating clean UI/UX interfaces, solving practical problems with code, an
  A wedding-themed responsive frontend website  
  [Live Demo](https://santhi1701.github.io/Vivaah-Vedika/)  
  [View Code](https://github.com/santhi1701/Vivaah-Vedika)  
-`HTML`, `CSS`, `JavaScript`
+stack: HTML, CSS, JavaScript
 
 
 ### Skills
 
-- Frontend: HTML, CSS, JavaScript, Bootstrap
+- Frontend: HTML5, CSS3, JavaScript, Bootstrap
 - Backend: Django, Python
 - Database: SQLite
 -Tools: Git, GitHub, VS Code
 
 ### GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="top-langs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=santhi1701&show_icons=true&theme=gruvbox" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhi1701&layout=compact&theme=gruvbox" alt="Top languages" />
 </p>
 
 ---
@@ -37,7 +36,7 @@ I love creating clean UI/UX interfaces, solving practical problems with code, an
 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - Email: 22kq1a5487aids@gmail.com
-- Portfolio: Coming soon...
+
 
 ---
 
