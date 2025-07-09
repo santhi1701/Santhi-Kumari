@@ -12,7 +12,7 @@ I love creating clean UI/UX interfaces, solving practical problems with code, an
 
  **Vivaah Vedika**  
  A wedding-themed responsive frontend website  
- [Live Demo](https://yourusername.github.io/vivahvedika)  
+ [Live Demo](https://santhi1701.github.io/Vivaah-Vedika/)  
  [View Code](https://github.com/santhi1701/Vivaah-Vedika)  
 `HTML`, `CSS`, `JavaScript`
 
