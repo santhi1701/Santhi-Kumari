@@ -38,7 +38,7 @@ I'm a passionate AI & Data Science student with strong interest in full-stack de
 - Real-time exam and quiz platform for students
 - User dashboard with performance stats and weak topic analysis
 - Admin panel to upload resources and questions
-- ✅ Live: [PrepValut.onrender.com](https://PrepValut.onrender.com)
+- ✅ Live: [PrepValut.onrender.com](https://prepvault-q3qz.onrender.com)
 - 🔧 Built using: `Django`, `SQLite`, `HTML`, `CSS`, `Bootstrap`
 
 ---
