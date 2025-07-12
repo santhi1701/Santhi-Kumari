@@ -1,44 +1,61 @@
-# Santhi-Kumari
-<h1 align="center">Hi 👋, I'm Santhi Kumari</h1>
-<h3 align="center">Final Year B.Tech Student | Aspiring Full Stack Developer</h3>
 
-I'm a passionate developer focused on building real-time, user-friendly applications using modern web technologies.
-
-I love creating clean UI/UX interfaces, solving practical problems with code, and constantly learning new tools.
-
-
-
-###  Projects
-
- **Vivaah Vedika**  
- A wedding-themed responsive frontend website  
- [Live Demo](https://santhi1701.github.io/Vivaah-Vedika/)  
- [View Code](https://github.com/santhi1701/Vivaah-Vedika)  
-stack: HTML, CSS, JavaScript
-
-
-### Skills
-
-- Frontend: HTML5, CSS3, JavaScript, Bootstrap
-- Backend: Django, Python
-- Database: SQLite
--Tools: Git, GitHub, VS Code
-
-### GitHub Stats
+<h1 align="center">👋 Hi, I'm Santhi Kumari</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhi1701&show_icons=true&theme=gruvbox" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhi1701&layout=compact&theme=gruvbox" alt="Top languages" />
+  🎓 AI & Data Science Student | 💻 Full-Stack Python Developer | 🧠 ML Enthusiast
+</p>
+<p align="center">
+  I build real-time applications that combine smart logic, clean UI, and modern tech.
 </p>
 
 ---
 
-### Connect With Me
+## 🧑‍💻 About Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Email: 22kq1a5487aids@gmail.com
+I'm a passionate AI & Data Science student with strong interest in full-stack development and machine learning. I specialize in building **real-time web apps** using Python, Django, and JavaScript — with experience in intelligent resume analyzers, quiz platforms, and elegant frontend websites.
 
+🔍 I enjoy blending frontend design with backend intelligence, and I'm always learning new technologies to grow as a developer.
 
 ---
 
-_“I believe in learning by doing, and I'm ready to contribute to real-world tech teams with energy and passion!”_
+## 🚀 Projects
 
+### 🔎 [MatchMyResume](https://github.com/santhi1701/MatchMyResume)
+
+> 📄 **AI-powered Resume Analyzer (TF-IDF + Cosine Similarity)**
+
+- Upload your resume and job description to calculate ATS match score.
+- Shows matched/missing keywords and gives improvement tips.
+- 🔧 Built using: `Django`, `Python`, `NLP`, `Bootstrap`
+- 🧠 Used ML logic with `TF-IDF` and `Cosine Similarity`
+- ✅ Live: [matchmyresume.onrender.com](https://matchmyresume-1.onrender.com)
+
+---
+
+### 🧠 [PrepVault](https://github.com/santhi1701/PrepVault)
+
+> 🎯 **Quiz & Interview Prep Web App**
+
+- Real-time exam and quiz platform for students
+- User dashboard with performance stats and weak topic analysis
+- Admin panel to upload resources and questions
+- ✅ Live: [PrepValut.onrender.com](https://PrepValut.onrender.com)
+- 🔧 Built using: `Django`, `SQLite`, `HTML`, `CSS`, `Bootstrap`
+
+---
+
+### 💒 [Vivvah Vedika](https://github.com/santhi1701/Vivvah-Vedika)
+
+> 💍 **Responsive Wedding Services Website**
+
+- Frontend project showcasing design and user interaction
+- Users can browse wedding services, contact planners, and explore event galleries
+- 🔧 Built using: `HTML`, `CSS`, `JavaScript`
+
+---
+```text
+## 🧰 Skills
+Languages:    Python, Java, C, JavaScript, SQL
+Frontend:     HTML, CSS, Bootstrap, JS
+Backend:      Django, SQLite, REST APIs
+ML Concepts:  TF-IDF, Cosine Similarity, NLP (Beginner level)
+Tools:        Git, GitHub, Render, VS Code, Eclipse
