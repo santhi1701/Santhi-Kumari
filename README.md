@@ -49,7 +49,7 @@ I'm a passionate AI & Data Science student with strong interest in full-stack de
 
 - Frontend project showcasing design and user interaction
 - Users can browse wedding services, contact planners, and explore event galleries
--✅ Live: [VivaahVedika](https://prepvault-q3qz.onrender.com)
+-✅ Live: [VivaahVedika](https://santhi1701.github.io/Vivaah-Vedika/)
 - 🔧 Built using: `HTML`, `CSS`, `JavaScript`
 
 ---
