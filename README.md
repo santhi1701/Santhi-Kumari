@@ -60,7 +60,7 @@ Frontend:     HTML, CSS, Bootstrap, JS
 Backend:      Django, SQLite, REST APIs
 ML Concepts:  TF-IDF, Cosine Similarity, NLP (Beginner level)
 Tools:        Git, GitHub, Render, VS Code, Eclipse
-
+```
 ---
 
 ##  Connect With Me
