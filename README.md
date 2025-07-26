@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hi, I'm Santhi Kumari</h1>
 <p align="center">
-  🎓 AI & Data Science Student |  Full-Stack Python Developer |  ML Enthusiast
+  🎓 AI & Data Science Student | Software Enginner | Full Stack Developer 
 </p>
 <p align="center">
   I build real-time applications that combine smart logic, clean UI, and modern tech.
@@ -66,7 +66,7 @@ Tools:        Git, GitHub, Render, VS Code, Eclipse
 ##  Connect With Me
 
 - Email: [santhikumari.dev@gmail.com](mailto:22kq1a5487aids@gmail.com)
-- LinkedIn: [linkedin.com/in/santhi-kumari](https://www.linkedin.com/in/santhi-kumari-muchu-08a095301/)
+- LinkedIn: [linkedin.com/in/santhi-kumari](https://www.linkedin.com/in/santhi-kumari-muchu-b91839293/)
 
 ---
 
