@@ -66,7 +66,7 @@ Tools:        Git, GitHub, Render, VS Code, Eclipse
 ##  Connect With Me
 
 - Email: [santhikumari.dev@gmail.com](mailto:22kq1a5487aids@gmail.com)
-- LinkedIn: [linkedin.com/in/santhi-kumari](https://www.linkedin.com/in/santhi-kumari-muchu-b91839293/)
+- LinkedIn: [linkedin.com/in/santhi-kumari](https://www.linkedin.com/in/santhi-kumari-muchu-b09762376/)
 
 ---
 
