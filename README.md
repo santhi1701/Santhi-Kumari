@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hi, I'm Santhi Kumari</h1>
 <p align="center">
-  🎓 AI & Data Science Student | Software Enginner | Full Stack Developer 
+  🎓 AI & Data Science Student | Software Engineer | Full Stack Developer 
 </p>
 <p align="center">
   I build real-time applications that combine smart logic, clean UI, and modern tech.
