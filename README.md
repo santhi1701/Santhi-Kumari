@@ -51,7 +51,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🤖 [SkillWeaver – AI Resume Intelligence Platform](https://github.com/your-username/skillweaver)
+#### 🤖 [SkillWeaver – AI Resume Intelligence Platform](https://github.com/santhi1701/SkillWeaver)
 > Python · Django · Scikit-learn · NLP · TF-IDF · Cosine Similarity · SQLite
 
 - AI-powered resume screening app that evaluates candidate-role compatibility using NLP
@@ -60,7 +60,7 @@
 
 ---
 
-#### 📊 [E-Commerce Sales Analytics Dashboard](https://github.com/your-username/ecommerce-dashboard)
+#### 📊 [E-Commerce Sales Analytics Dashboard](https://github.com/santhi1701/E-Commerce-Sales-Analytics-Dashboard)
 > Python · Pandas · NumPy · Power BI · DAX
 
 - Cleaned and analyzed 541K+ transactions to uncover revenue trends and customer behavior
