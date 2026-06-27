@@ -9,12 +9,12 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 B.Tech in **Artificial Intelligence & Data Science** — CGPA 8.92
-- 🔍 Passionate about turning raw data into **actionable business insights**
-- 🛠️ Experienced in **Python, SQL, Power BI, Machine Learning, and NLP**
-- 🌱 Currently exploring **Generative AI & Advanced Analytics**
-- 📫 Reach me at **santhikumari1701@gmail.com**
-- 💼 Open to **Data Analyst / Data Science** opportunities
+- B.Tech in **Artificial Intelligence & Data Science** — CGPA 8.85
+- Passionate about turning raw data into **actionable business insights**
+- Experienced in **Python, SQL, Power BI, Machine Learning, and NLP**
+- Currently exploring **Generative AI & Advanced Analytics**
+- Reach me at **santhikumari1701@gmail.com**
+- Open to **Data Analyst / Data Science** opportunities
 
 ---
 
@@ -51,7 +51,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🤖 [SkillWeaver – AI Resume Intelligence Platform](https://github.com/santhi1701/SkillWeaver)
+#### [SkillWeaver – AI Resume Intelligence Platform](https://github.com/santhi1701/SkillWeaver)
 > Python · Django · Scikit-learn · NLP · TF-IDF · Cosine Similarity · SQLite
 
 - AI-powered resume screening app that evaluates candidate-role compatibility using NLP
@@ -60,7 +60,7 @@
 
 ---
 
-#### 📊 [E-Commerce Sales Analytics Dashboard](https://github.com/santhi1701/E-Commerce-Sales-Analytics-Dashboard)
+#### [E-Commerce Sales Analytics Dashboard](https://github.com/santhi1701/E-Commerce-Sales-Analytics-Dashboard)
 > Python · Pandas · NumPy · Power BI · DAX
 
 - Cleaned and analyzed 541K+ transactions to uncover revenue trends and customer behavior
@@ -71,9 +71,10 @@
 
 ### 📜 Certifications
 
-- 📊 Data Visualization & Building Dashboards with Excel and Cognos — **IBM**
-- 🔍 Data Analytics Essential — **Cisco**
-- 🐍 Python for Data Science — **IBM**
+- Data Visualization & Building Dashboards with Excel and Cognos — **IBM**
+- Data Analytics Essential — **Cisco**
+- Python for Data Science — **IBM**
+- SQL for Data Science - **IBM**
 
 ---
 
