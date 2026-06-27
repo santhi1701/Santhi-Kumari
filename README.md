@@ -69,6 +69,12 @@
 
 ---
 
+### [FNP Sales Analysis Dashboard](https://github.com/santhi1701/fnp-sales-analysis)
+>Microsoft Excel . (PivotTables, Slicers, PivotCharts)
+- Performed EDA on 1,000+ sales orders to uncover customer behavior, product performance, and regional demand trends.
+- Built an interactive Excel dashboard with pivot tables, slicers, and charts to monitor KPIs including total revenue (₹35.2L), avg customer spend (₹3,520), and     order-to-delivery time.
+- Identified top-revenue occasions (Raksha Bandhan, Anniversary), best-selling categories (Sweets, Soft Toys), and high-order cities, delivering actionable          business insights.
+
 ### 📜 Certifications
 
 - Data Visualization & Building Dashboards with Excel and Cognos — **IBM**
