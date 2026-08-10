@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+ML+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
 </p>
 
+
 ---
 
 ### 👩‍💻 About Me
